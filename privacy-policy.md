@@ -1,6 +1,6 @@
 Privacy Policy
 
-At Tetris Rewards, we value and respect your privacy. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our app. By using our app, you agree to the terms and practices described herein.
+At Tetris/Snake Rewards, we value and respect your privacy. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our app. By using our app, you agree to the terms and practices described herein.
 
 1. Information Collection
 
@@ -8,7 +8,7 @@ We may collect the following types of information:
 
 - Google Authentication: When you choose to sign in to our app using your Google account, we collect your Google authentication details, including your email address.
 
-- Email Address: We may ask for your email address during the sign-up process to create and manage your Tetris Rewards account. This information is securely stored and used for account-related communications and to facilitate the redemption of rewards.
+- Email Address: We may ask for your email address during the sign-up process to create and manage your Tetris/Snake Rewards account. This information is securely stored and used for account-related communications and to facilitate the redemption of rewards.
 
 - Advertisements: Our app may display third-party advertisements. These ads may collect certain non-personal information, such as your device type, location, and interaction with the ads. Please note that we do not have access to or control over the information collected by these advertisements.
 
@@ -16,7 +16,7 @@ We may collect the following types of information:
 
 We use the collected information for the following purposes:
 
-- Google Authentication: Your Google authentication details are used solely for the purpose of enabling a seamless sign-in process and personalizing your Tetris Rewards experience.
+- Google Authentication: Your Google authentication details are used solely for the purpose of enabling a seamless sign-in process and personalizing your Tetris/Snake Rewards experience.
 
 - Email Address: We utilize your email address to provide account-related notifications, inform you about reward redemption options, and communicate any important updates or changes to our app.
 
@@ -42,4 +42,4 @@ Our app is not intended for use by individuals under the age of 13. We do not kn
 
 We reserve the right to modify or update this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated policy within the app. We encourage you to review this policy periodically to stay informed about our information practices.
 
-If you have any questions or concerns regarding our Privacy Policy, please contact us at [contact email]. Thank you for choosing Tetris Rewards, and enjoy the game!
+If you have any questions or concerns regarding our Privacy Policy, please contact us at [contact email]. Thank you for choosing Tetris/Snake Rewards, and enjoy the game!
